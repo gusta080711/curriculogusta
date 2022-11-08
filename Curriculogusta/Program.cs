@@ -26,6 +26,9 @@ namespace Curriculogusta
 
 
 
+			Console.WriteLine("BEM VINDO");
+			Console.WriteLine("PREENCHA SEU CURRICULO NO CADASTRO ABAIXO:");
+		
 			Console.WriteLine("Digite seu nome:");
 		nome: Console.ReadLine();
 
